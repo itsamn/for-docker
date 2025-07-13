@@ -1,0 +1,16 @@
+# Ignore secrets
+.env
+
+# Ignore OS junk
+.DS_Store
+Thumbs.db
+
+# Ignore build/output folders
+node_modules/
+__pycache__/
+build/
+dist/
+
+# Ignore version control
+.git
+.gitignore
